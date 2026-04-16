@@ -21,6 +21,8 @@ jobs:
           SHOW_PROFILE_VIEWS: false
           SHOW_LINES_OF_CODE: true
           SHOW_PROJECTS: false
-          LANG_COUNT: 5              # max number of languages shown
-          SHOW_TOTAL: true           # display total coding time
-          IGNORED_LANGUAGES: "YAML JSON TOML"  # hide noise languages
+          SHOW_TOTAL_CODE_TIME: true   # replaces SHOW_TOTAL
+          SHOW_OS: true
+          SHOW_EDITORS: true
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
