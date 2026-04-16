@@ -14,5 +14,13 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          DEBUG_LOGGING: false
+          SHOW_SHORT_INFO: false
+          SHOW_TIMEZONE: false
+          SHOW_LOC_CHART: false
+          SHOW_PROFILE_VIEWS: false
           SHOW_LINES_OF_CODE: true
-          # ... your other options
+          SHOW_PROJECTS: false
+          LANG_COUNT: 5              # max number of languages shown
+          SHOW_TOTAL: true           # display total coding time
+          IGNORED_LANGUAGES: "YAML JSON TOML"  # hide noise languages
