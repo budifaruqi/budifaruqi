@@ -1,8 +1,4 @@
-<h1 align="center">Hi there, I'm Budi Faruqi 👋</h1>
-
-<p align="center">
-  <em>Developer from Salatiga, Central Java 🇮🇩 &nbsp;·&nbsp; Mostly coding in Java & Python</em>
-</p>
+<h1 align="center">Hi there👋</h1>
 
 ---
 
